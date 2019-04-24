@@ -1,0 +1,2 @@
+# seagulls
+Scripts in C
